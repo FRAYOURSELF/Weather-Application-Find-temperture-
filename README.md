@@ -1,5 +1,6 @@
 # simple-nodejs-weather-app
-Simple Node.js Command Line Weather Application
+Simple Node.js Command Line Weather Application.
+
 Install all the dependencies locally.
 * Run the web app locally:
 ```
